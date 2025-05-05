@@ -18,7 +18,7 @@
 ## 🖼️ Screenshot
 
 ![App Screenshot](screenshot.png)
-
+![App Screenshot](screenshot2.png)
 ---
 
 ## 📑 Table of Contents
