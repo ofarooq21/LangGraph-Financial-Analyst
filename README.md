@@ -17,7 +17,7 @@
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ---
 
