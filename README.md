@@ -1,7 +1,7 @@
 <!--
   ___________________________________________________________
  |                                                           |
- |    📈 AI-Powered Financial Analyst — README.md            |
+ |    📈 AI-Powered LangGraph Financial Analyst — README.md  |
  |___________________________________________________________|
 -->
 
