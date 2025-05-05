@@ -5,7 +5,7 @@
  |___________________________________________________________|
 -->
 
-# 📈 AI-Powered Financial Analyst
+# 📈 AI-Powered LangGraph Financial Analyst
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/streamlit-v1.0-green)](https://streamlit.io/)  
