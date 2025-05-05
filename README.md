@@ -19,7 +19,6 @@
 
 ![App Screenshot](screenshot.png) 
 
-Charts:
 
 ![App Screenshot](screenshot2.png)
 ---
