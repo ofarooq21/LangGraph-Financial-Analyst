@@ -27,16 +27,7 @@
 2. [Technology Stack](#-technology-stack)  
 3. [Prerequisites](#-prerequisites)  
 4. [Installation](#-installation)  
-5. [Configuration & Environment Variables](#-configuration--environment-variables)  
-6. [Usage](#-usage)  
-7. [Code Structure](#-code-structure)  
-8. [Examples](#-examples)  
-9. [Advanced Customization](#-advanced-customization)  
-10. [Testing](#-testing)  
-11. [Troubleshooting](#-troubleshooting)  
-12. [Roadmap](#-roadmap)  
-13. [Contributing](#-contributing)  
-14. [License](#-license)  
+
 
 ---
 
