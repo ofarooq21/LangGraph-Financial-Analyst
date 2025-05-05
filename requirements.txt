@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+yfinance
+requests
+pandas_ta           # technical indicators
+streamlit
+plotly
+langchain>=0.2.0
+langgraph
+openai>=1.23
+tavily-python       # optional web search tool
